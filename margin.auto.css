@@ -1,0 +1,22 @@
+.uno{
+
+	height: 325px;
+	width: 300px;
+border:20px solid yellow;
+margin: 5px 5px;
+padding: 40px;
+box-sizing:border-box;
+text-align: center;
+
+}
+.dos{
+
+	height: 325px;
+	width: 300px;
+border:20px solid yellow;
+padding: 40px;
+box-sizing:border-box;
+margin : auto;
+
+
+}
